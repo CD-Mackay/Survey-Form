@@ -1,0 +1,32 @@
+#title-card {
+    display: flex;
+    flex-direction: column;
+    align-content: space-beteen;
+    border-style: groove;
+    box-shadow: 10px 5px 5px #aaaaaa;
+  }
+#survey-form {
+  border-style: ridge;
+  display: flex;
+  flex-direction: column; 
+  justify-content: flex-end;
+  align-items: center;
+  box-shadow: 10px 10px 5px #aaaaaa;
+
+}
+  #title {
+text-align: center;
+   
+}
+  #description {
+    text-align: center; 
+    margin-top:-22px;
+    margin-bottom: 0px;
+  }
+#body {
+  max-width: 600px;
+  margin: auto;
+}
+#name-label{
+  padding-top: 10px;
+}
